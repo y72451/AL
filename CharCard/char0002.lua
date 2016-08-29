@@ -1,0 +1,10 @@
+c0004=
+{
+	id=0003
+	,Name="BlueGolem"
+	,Hp=5
+	,Atk=5
+	,Def=15
+	,Mp=5
+	,ImgPath="mons.png"
+}
